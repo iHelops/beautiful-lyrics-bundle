@@ -7,21 +7,21 @@ This repository contains a built version of the [`Beautiful Lyrics`](https://git
 - The `beautiful-lyrics.mjs` script has been rebuilt to use the build from the current repository, and auto-updates have been cut out.
 
 ## Installation
-1. Download the `beautiful-lyrics.mjs` file from this repository and place it in the following directory
+1. Download the [`beautiful-lyrics.mjs`](https://github.com/iHelops/beautiful-lyrics-bundle/blob/main/beautiful-lyrics.mjs) file from this repository and place it in the following directory
 
 | Platform      | Path                             |
 | ------------- |:--------------------------------:|
 | Windows       | `%appdata%\spicetify\Extensions` |
 | Linux/MacOS	| `~/.config/spicetify/Extensions` |
 
-2. activate the extension using the following commands
+2. Activate the extension using the following commands
 ```console
 $ spicetify config extensions beautiful-lyrics.mjs
 $ spicetify apply
 ```
 
 ## Uninstall
-1. disable the extension using the following commands
+1. Disable the extension using the following commands
 ```console
 $ spicetify config extensions beautiful-lyrics.mjs-
 $ spicetify apply
