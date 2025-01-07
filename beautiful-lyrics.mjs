@@ -1,3 +1,8 @@
+/*
+ * The original script belongs to @surfbryce and can be found in this repository
+ * https://github.com/surfbryce/beautiful-lyrics/blob/main/Builds/Release/beautiful-lyrics.mjs
+ */
+
 const version = "4.2.0";
 const repository = "https://cdn.jsdelivr.net/gh/iHelops/beautiful-lyrics-bundle@main";
 
